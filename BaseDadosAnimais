@@ -32,7 +32,7 @@ CREATE TABLE IF NOT EXISTS `especies` (
 
 -- Copiando dados para a tabela bancotestefacens.especies: ~12 rows (aproximadamente)
 INSERT INTO `especies` (`id`, `nome`, `raca`, `cor`, `Peso`) VALUES
-	(1, 'Auau', 'Cachorro', 'preto', 40.50),
+	(1, 'Pateta', 'Cachorro', 'preto', 40.50),
 	(2, 'boot', 'Cachorro', 'cinza', 29.30),
 	(3, 'scobby', 'Cachorro', 'branco e preto', 37.40),
 	(4, 'toto', 'Cachorro', 'preto', 17.10),
